@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Studentuppdrag
 
-You can use the [editor on GitHub](https://github.com/regionostergotland/studentuppdrag/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Vi underhåller en lista på öppna förslag till studentuppdrag på https://tinyurl.com/studentuppdrag
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Exempel på redan genomförda Studentuppdrag
+De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 
-### Markdown
+### 2015
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- RFID-baserad identifikation i vården; Patrik Ström/Thorell -
+[Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-130720) - [Källkod](https://github.com/paguz/RPi-RFID)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/regionostergotland/studentuppdrag/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
