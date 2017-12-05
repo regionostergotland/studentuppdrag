@@ -13,6 +13,8 @@ De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 ### 2016
 - Prestanda och funktionalitetstest av Raspberry Pi; Manuela Tesanovic  -
 [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-133978)
+- Using Node-Red to Connect Patient, Staff and Medical Equipment; Junior Asante and Joel Olsson
+[Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-129781)
 
 
 ### 2015
