@@ -13,14 +13,13 @@ De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 ### 2016
 - Prestanda och funktionalitetstest av Raspberry Pi; Manuela Tesanovic  -
 [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-133978)
-- Using Node-Red to Connect Patient, Staff and Medical Equipment; Junior Asante and Joel Olsson
+- Using Node-Red to Connect Patient, Staff and Medical Equipment; Junior Asante & Joel Olsson
 [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-129781)
 
 
 ### 2015
 - OpGuide (info kommer)
-- Behovsdriven utveckling inom den offentliga sektorn - Självservice vid en akutmottagning – Vems behov väger tyngst; Sanda Gagic
-Sandra Svanberg - [Rapport](https://regionostergotland.github.io/studentuppdrag/2015/Magisteruppsats-15-02101%20Sanda%20Gagic%20%20Sandra%20Svanberg.pdf)
+- Behovsdriven utveckling inom den offentliga sektorn - Självservice vid en akutmottagning – Vems behov väger tyngst; Sanda Gagic & Sandra Svanberg - [Rapport](https://regionostergotland.github.io/studentuppdrag/2015/Magisteruppsats-15-02101%20Sanda%20Gagic%20%20Sandra%20Svanberg.pdf)
 - Akutjournalens övergång till digital plattform: Vad som krävs för att ersätta pappersformatet
 Linda Hallström [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-120627) - (Handledning från Cambio)
 - RFID-baserad identifikation i vården; Patrik Ström/Thorell -
