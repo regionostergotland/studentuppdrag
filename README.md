@@ -1,9 +1,6 @@
 # Studentuppdrag
-Vi underhåller en lista på öppna förslag till studentuppdrag på [https://tinyurl.com/studentuppdrag](https://tinyurl.com/studentuppdrag) som (idag 2019-02-11) håller på att flyttas hit. 
 
-## Om Region Östergötland
-
-Region Östergötland är och vill fortsätta att vara i framkant, med vård, forskning och utbildning i världsklass. Därför behöver vi många olika sorters kompetens med olika typer av bakgrund. Vi har förutsättningarna för spännande karriärvägar, för att du ska kunna göra skillnad, och föra livet framåt. Inom regionen finns sjukhus i Linköping, Norrköping och Motala. Dessutom finns ett stort antal vårdcentraler och andra verksamheter, spridda över hela regionen.
+Region Östergötland vill fortsätta att vara i framkant, med vård, forskning och utbildning i världsklass. Därför behöver vi många olika sorters kompetens med olika typer av bakgrund. Vi har förutsättningarna för spännande karriärvägar, för att du ska kunna göra skillnad, och föra livet framåt. Inom regionen finns sjukhus i Linköping, Norrköping och Motala. Dessutom finns ett stort antal vårdcentraler och andra verksamheter, spridda över hela regionen.
 
 Utöver vårdutbildad personal finns personal från många andra utbildningsbakgrunder, t.ex. teknik, naturvetenskap, informatik, matematik, ekonomi, juridik, HR. Studentuppdrag/praktik för vård-relaterade utbildningar nås istället främst via https://www.regionostergotland.se/Jobb-och-studier/.
 
@@ -93,5 +90,5 @@ Några fler projektidéer vars handlednings-möjlighet f.n. är osäker finns fo
 
 -----------
 
-Webb-version av denna sida nås via http://regionostergotland.github.io/studentuppdrag 
+Webb-version av denna sida nås via http://regionostergotland.github.io/studentuppdrag kortlänk som dirigeras dit [https://tinyurl.com/studentuppdrag](https://tinyurl.com/studentuppdrag) 
 
