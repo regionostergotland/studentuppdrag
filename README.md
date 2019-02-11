@@ -90,5 +90,5 @@ Några fler projektidéer vars handlednings-möjlighet f.n. är osäker finns fo
 
 -----------
 
-Webb-version av denna sida nås via http://regionostergotland.github.io/studentuppdrag kortlänk som dirigeras dit [https://tinyurl.com/studentuppdrag](https://tinyurl.com/studentuppdrag) 
+Webb-version av denna sida nås via http://regionostergotland.github.io/studentuppdrag
 
