@@ -1,8 +1,8 @@
 # Studentuppdrag
+Vi underhåller en lista på öppna förslag till studentuppdrag på [https://tinyurl.com/studentuppdrag](https://tinyurl.com/studentuppdrag) som (idag 2019-02-11) håller på att flyttas hit nu. 
 
-Vi underhåller en lista på öppna förslag till studentuppdrag på [https://tinyurl.com/studentuppdrag](https://tinyurl.com/studentuppdrag) som håller på att flyttas hit nu. 
+## Om Region Östergötland
 
-## Om regionen
 Region Östergötland är och vill fortsätta att vara i framkant, med vård, forskning och utbildning i världsklass. Därför behöver vi många olika sorters kompetens med olika typer av bakgrund. Vi har förutsättningarna för spännande karriärvägar, för att du ska kunna göra skillnad, och föra livet framåt. Inom regionen finns sjukhus i Linköping, Norrköping och Motala. Dessutom finns ett stort antal vårdcentraler och andra verksamheter, spridda över hela regionen.
 
 Utöver vårdutbildad personal finns personal från många andra utbildningsbakgrunder, t.ex. teknik, naturvetenskap, informatik, matematik, ekonomi, juridik, HR. Studentuppdrag/praktik för vård-relaterade utbildningar nås istället främst via https://www.regionostergotland.se/Jobb-och-studier/.
@@ -15,7 +15,12 @@ Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd och utveck
 
 # Aktuella Studentuppdrag (2019)
 
-* *Öppen medicinteknisk hårdvara & mjukvara - demonstratortillverkning och tester* Replikera och anpassa/förbättra [medicintekniska system baserade på öppen hårdvara](https://www.economist.com/technology-quarterly/2012/06/02/when-code-can-kill-or-cure) och/eller mjukvara. Dessa uppdrag kräver både hantverksmässighet och kunnande. Exempel på typer av tänkbara projekt (förutsätter att lämplig verksamhet är intresserad): Open Indirect Opthalmoscope (samt artikel hos Raspberry Pi, se även relaterad AI), spektrometer, MediPi, sprutpumpar m.m. Egna förslag välkomna!
+* *Öppen medicinteknisk hårdvara & mjukvara - demonstratortillverkning och tester* Replikera och anpassa/förbättra [medicintekniska system baserade på öppen hårdvara](https://www.economist.com/technology-quarterly/2012/06/02/when-code-can-kill-or-cure) och/eller mjukvara. Dessa uppdrag kräver både hantverksmässighet och kunnande. Exempel på typer av tänkbara projekt (förutsätter att lämplig verksamhet är intresserad): [Open Indirect Opthalmoscope](https://lvpmitra.com/oio/) (samt [artikel hos Raspberry Pi](https://www.raspberrypi.org/blog/ophthalmoscope-eyesight-india/), se även relaterad AI för [diabetes](https://ai.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html) och [hjärt-kärl-sjuldomar](https://ai.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html), [spektrometer](https://hackaday.io/project/1279-ramanpi-raman-spectrometer), MediPi, [sprutpumpar](http://www.appropedia.org/Open-source_syringe_pump) [m.m.](https://hackaday.com/2019/02/03/open-source-biological-gear-for-the-masses/) Egna förslag välkomna!
+
+* *Generera fiktiva testpatienter samt ”personor” för vårdpersonal.*
+Inom regionen testas vårdsystem i samband med förändringar, uppgraderingar m.m. Vårdgivare är av legala skäl förhindrade att använda riktiga patienters journaler eller uppgifter i testerna, och måste därför bygga upp både fiktiv vårdpersonal och fiktiva patienter. De medarbetare som saknar vårdbakgrund har ibland problem med att avgöra om testobjektet är lösningen på användarnas problem, och därför behöver testarna nu mer och djupare information om vad olika yrkesgrupper och specialister behöver för informationsmängder för att kunna fatta lämpliga beslut om fortsatt vård eller behandling. Det finns några personal-personor att utgå ifrån och för patientfall kan utöver nuvarande testpatienter även publikt tillgängliga fallbeskrivningar etc. användas. 
+        De beskrivningar av den fiktiva vårdpersonalen som används idag är magra och innehåller bara grundläggande egenskaper och attribut som behövts till tekniska tester. Beskrivningarna behöver utökas med t.ex. vilken typ av läkare eller sköterska de är, vad de behöver för underlag i vissa vårdsituationer för att kunna fatta beslut om patientens fortsatta behandling. På samma sätt saknas många diagnoser, symtom m.m. hos våra fiktiva patienter, vilket begränsar testerna. Med mer information om de fiktiva patienterna och deras sjukdomar hade patientjournalen satts hårdare på prov än vad som sker i dag, och vi hade hittat fler avvikelser redan under test. Tester med utgångspunkt i fylligare ”personor” både för fiktiv personal och patienter bör ge högre kvalitet. Väl beskrivna personor gör det enklare för alla inblandade att förstå krav och lösning, både hos oss och hos leverantörer. Arbetet kommer bland annat innefatta inventering av befintliga personor för testanvändare respektive testpatienter samt planering, genomförande och sammanställning av intervjuer med vårdpersonal.
+
 
 
 
