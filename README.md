@@ -13,9 +13,9 @@ Vi har möjlighet att erbjuda studentuppdrag från flera av Region Östergötlan
 
 Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd och utveckling, CVU](https://www.regionostergotland.se/Om-regionen/Verksamheter/Centrum-for-verksamhetsstod-och-utveckling/), som levererar tjänster inom medicinsk teknik och IT, miljö, bygg, HR, ekonomi, arkivverksamhet, regional biblioteksverksamhet, vårdnära verksamhetsutveckling, folkhälsa, fastigheter/facility management och upphandling. Centrum för verksamhetsstöd och utveckling har sin verksamhet i Linköping, Norrköping och Motala och sysselsätter runt 1100 personer.
 
-# Aktuella Studentuppdrag (2019-)
+# Aktuella Studentuppdrag (2019)
 
-* _Öppen medicinteknisk hårdvara & mjukvara - demonstratortillverkning och tester_ Replikera och anpassa/förbättra medicintekniska system baserade på öppen hårdvara och/eller mjukvara. Dessa uppdrag kräver både hantverksmässighet och kunnande. Exempel på typer av tänkbara projekt (förutsätter att lämplig verksamhet är intresserad): Open Indirect Opthalmoscope (samt artikel hos Raspberry Pi, se även relaterad AI), spektrometer, MediPi, sprutpumpar m.m. Egna förslag välkomna!
+* *Öppen medicinteknisk hårdvara & mjukvara - demonstratortillverkning och tester* Replikera och anpassa/förbättra [medicintekniska system baserade på öppen hårdvara](https://www.economist.com/technology-quarterly/2012/06/02/when-code-can-kill-or-cure) och/eller mjukvara. Dessa uppdrag kräver både hantverksmässighet och kunnande. Exempel på typer av tänkbara projekt (förutsätter att lämplig verksamhet är intresserad): Open Indirect Opthalmoscope (samt artikel hos Raspberry Pi, se även relaterad AI), spektrometer, MediPi, sprutpumpar m.m. Egna förslag välkomna!
 
 
 
