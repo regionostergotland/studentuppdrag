@@ -5,17 +5,17 @@ Vi underhåller en lista på öppna förslag till studentuppdrag på [https://ti
 ## Om regionen
 Region Östergötland är och vill fortsätta att vara i framkant, med vård, forskning och utbildning i världsklass. Därför behöver vi många olika sorters kompetens med olika typer av bakgrund. Vi har förutsättningarna för spännande karriärvägar, för att du ska kunna göra skillnad, och föra livet framåt. Inom regionen finns sjukhus i Linköping, Norrköping och Motala. Dessutom finns ett stort antal vårdcentraler och andra verksamheter, spridda över hela regionen.
 
-Utöver vårdutbildad personal finns personal från många andra utbildningsbakgrunder, t.ex. teknik, naturvetenskap, informatik, matematik, ekonomi, juridik, HR.
+Utöver vårdutbildad personal finns personal från många andra utbildningsbakgrunder, t.ex. teknik, naturvetenskap, informatik, matematik, ekonomi, juridik, HR. Studentuppdrag/praktik för vård-relaterade utbildningar nås istället främst via https://www.regionostergotland.se/Jobb-och-studier/.
 
 ## Studentuppdrag: examensarbete, uppsats, kursprojekt eller praktikplats?
 
-Vi har möjlighet att erbjuda studentuppdrag från flera av Region Östergötlands olika verksamheter. Studentuppdrag kan genomföras på olika sätt, examensarbete, uppsats, praktik, kursprojekt m.m. Utöver listan nedan så är du givetvis välkommen med egna spontana idéer till projekt eller med kombinationsförslag som gränsar mellan de listade förslagen. Flera av förslagen kan göras tillsammans av flera studenter om så önskas. Ansökningar lämnas via antingen [https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/?RMURL=VacDetail.aspx?CommAdSeqNo=7690](annonsen för examensarbeten, uppsatser och kursprojekt) eller via  [https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/?RMURL=VacDetail.aspx?CommAdSeqNo=7691](annonsen för praktik). Frågor är välkomna till testochinnovation@regionostergotland.se.
+Vi har möjlighet att erbjuda studentuppdrag från flera av Region Östergötlands olika verksamheter. Studentuppdrag kan genomföras på olika sätt, examensarbete, uppsats, praktik, kursprojekt m.m. Utöver listan nedan så är du givetvis välkommen med egna spontana idéer till projekt eller med kombinationsförslag som gränsar mellan de listade förslagen. Flera av förslagen kan göras tillsammans av flera studenter om så önskas. Ansökningar lämnas via antingen [annonsen för examensarbeten, uppsatser och kursprojekt](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/?RMURL=VacDetail.aspx?CommAdSeqNo=7690) eller via [annonsen för praktik](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/?RMURL=VacDetail.aspx?CommAdSeqNo=7691). Frågor är välkomna till testochinnovation@regionostergotland.se.
 
-Många av uppdragen nedan kommer från [https://www.regionostergotland.se/Om-regionen/Verksamheter/Centrum-for-verksamhetsstod-och-utveckling/](Centrum för verksamhetsstöd och utveckling, CVU), som levererar tjänster inom medicinsk teknik och IT, miljö, bygg, HR, ekonomi, arkivverksamhet, regional biblioteksverksamhet, vårdnära verksamhetsutveckling, folkhälsa,  facility management och upphandling. Centrum för verksamhetsstöd och utveckling har sin verksamhet i Linköping, Norrköping och Motala och sysselsätter runt 1100 personer.
+Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd och utveckling, CVU](https://www.regionostergotland.se/Om-regionen/Verksamheter/Centrum-for-verksamhetsstod-och-utveckling/), som levererar tjänster inom medicinsk teknik och IT, miljö, bygg, HR, ekonomi, arkivverksamhet, regional biblioteksverksamhet, vårdnära verksamhetsutveckling, folkhälsa, fastigheter/facility management och upphandling. Centrum för verksamhetsstöd och utveckling har sin verksamhet i Linköping, Norrköping och Motala och sysselsätter runt 1100 personer.
 
-Studentuppdrag/praktik för vård-relaterade utbildningar nås via https://www.regionostergotland.se/Jobb-och-studier/
+# Aktuella Studentuppdrag (2019-)
 
-# Aktuella Studentuppdrag
+* _Öppen medicinteknisk hårdvara & mjukvara - demonstratortillverkning och tester_ Replikera och anpassa/förbättra medicintekniska system baserade på öppen hårdvara och/eller mjukvara. Dessa uppdrag kräver både hantverksmässighet och kunnande. Exempel på typer av tänkbara projekt (förutsätter att lämplig verksamhet är intresserad): Open Indirect Opthalmoscope (samt artikel hos Raspberry Pi, se även relaterad AI), spektrometer, MediPi, sprutpumpar m.m. Egna förslag välkomna!
 
 
 
