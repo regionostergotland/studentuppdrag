@@ -36,7 +36,7 @@ Projektförslagen under denna rubrik kan handledas 2019
         De beskrivningar av den fiktiva vårdpersonalen som används idag är magra och innehåller bara grundläggande egenskaper och attribut som behövts till tekniska tester. Beskrivningarna behöver utökas med t.ex. vilken typ av läkare eller sköterska de är, vad de behöver för underlag i vissa vårdsituationer för att kunna fatta beslut om patientens fortsatta behandling. På samma sätt saknas många diagnoser, symtom m.m. hos våra fiktiva patienter, vilket begränsar testerna. Med mer information om de fiktiva patienterna och deras sjukdomar hade patientjournalen satts hårdare på prov än vad som sker i dag, och vi hade hittat fler avvikelser redan under test. Tester med utgångspunkt i fylligare ”personor” både för fiktiv personal och patienter bör ge högre kvalitet. Väl beskrivna personor gör det enklare för alla inblandade att förstå krav och lösning, både hos oss och hos leverantörer. Arbetet kommer bland annat innefatta inventering av befintliga personor för testanvändare respektive testpatienter samt planering, genomförande och sammanställning av intervjuer med vårdpersonal.
       
       
-Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. Studentuppdrag/praktik för vård-relaterade utbildningar och annonser för vanliga (betalda) arbeten nås via https://www.regionostergotland.se/Jobb-och-studier/. 
+Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. Studentuppdrag/praktik för vård-relaterade utbildningar och annonser för vanliga (betalda) arbeten nås via [https://www.regionostergotland.se/Jobb-och-studier/](https://www.regionostergotland.se/Jobb-och-studier/). 
 
 ------------------
 
@@ -92,5 +92,5 @@ Några fler projektidéer vars handlednings-möjlighet f.n. är osäker finns fo
 
 -----------
 
-Webb-version av denna sida nås via http://regionostergotland.github.io/studentuppdrag
+Webb-version av denna sida nås via [http://regionostergotland.github.io/studentuppdrag/](http://regionostergotland.github.io/studentuppdrag/)
 
