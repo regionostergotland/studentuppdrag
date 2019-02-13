@@ -11,7 +11,7 @@ Vi har möjlighet att erbjuda studentuppdrag från flera av Region Östergötlan
 Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd och utveckling, CVU](https://www.regionostergotland.se/Om-regionen/Verksamheter/Centrum-for-verksamhetsstod-och-utveckling/), som levererar tjänster inom medicinsk teknik och IT, miljö, bygg, HR, ekonomi, arkivverksamhet, regional biblioteksverksamhet, vårdnära verksamhetsutveckling, folkhälsa, fastigheter/facility management och upphandling. Centrum för verksamhetsstöd och utveckling har sin verksamhet i Linköping, Norrköping och Motala och sysselsätter runt 1100 personer.
 
 # Öppna studentuppdrag (2019)
-Projektförslagen under denna rubrik kan handledas 2019
+Projektförslagen under denna rubrik kan handledas 2019 (fler kan tillkomma senare).
 
 __Patientjournal-applikationer__ [Pågående, öppet för fler att delta] 
 * __Papper --> digitalt__: Mycket av vårdens dokumentation är sedan länge digital, men inom t.ex. akutvård och operation så förekommer viktiga pappers-baserade flöden som vårdpersonalen nu skulle vilja få över till digital form, men på ett sätt som behåller eller överträffar papprets smidighet. Prototyparbete kring detta pågår. Det finns inom detta område plats för olika typer av studentuppdrag inom användbarhet, systemutveckling, inbyggda system, medcinsk informatik m.m.
