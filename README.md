@@ -18,15 +18,15 @@ __Patientjournal-applikationer__ [Pågående, öppet för fler att delta]
 * __Vilda system --> standardbaserade lösningar__: ["Feral systems"](http://blog.marand.com/2017/01/30/postmodern-ehr-solving-the-feral-systems-dilemma), vilda system, finns det gott om i alla vårdorganisationer. När den som skrivit ihop ett system t.ex. går i pension kan det bli svårt att underhålla och det finna även många andra nackdelar. Vi har ett antal system av olika storlek som står på kö för att moderniseras till mer standardiserade plattformar. Studentuppdrag kring detta innefattar ofta prototypande och nära samarbete med vården, allt från kravanalys och användbarhetsfrågor till programmering och test kan ingå och fördelas mellan studenter från olika utbildningar.
 * __Nya tekniska möjligheter__: Operativsystemsneutrala webbaserade lösningar underlättar. Nu kan moderna webbläsare göra mycket mer än förr. Man t.ex. nu tillåta webbläsare att kommunicera med bluetooth-apparater som blodtrycksdmätare etc. Hjälp oss utforska gränslandet mellan webbteknik och medicinteknik genom att utreda möjligheter och skapa prototyper.
 
+__"Low/no Code" för att ersätta eller komplettera "vanlig" programmering:__
+Mer makt åt användarna! Med "[Low Code](https://en.wikipedia.org/wiki/Low-code_development_platform)" & "[No Code](https://en.wikipedia.org/wiki/No-code_development_platform)" börjar gränsen mellan expert-användare och utvecklare bli suddig. Hjälp vår systemutvecklingsavdelning hitta och testa nya sätt som kan hjälpa vården och dess stödverksamheter att digitalisera sig själva - med mer eller mindre stöd från utvecklingsavdelningen. Flera typer av studentuppdrag finns:
+* Testa och jämför implementation av några användningsfall med både traditionell programmering och olika low/no-code-plattformar
+* Utred vad som publicerats om för och nackdelar med low/no-code och vad man bör tänka på. Jämför ramverk m.m. (Kognitions-/systemvetenskaplig bakgrund fördelaktig.)
+* Designa och implementera en [Blockly](https://developers.google.com/blockly/)-baserad no-code miljö för att författa kliniska [beslutsstödsregler](https://specifications.openehr.org/releases/CDS/latest/GDL.html) eller [RPA](https://en.wikipedia.org/wiki/Robotic_process_automation)-script.
+
 __Process för användarförslag och användarfeedback__: Det finns felanmälningsrutiner, men när det gäller synpunkter och förbättringsförslag finns det ingen smidig väg för regionens personal att dela med sig av och diskutera sina tankar (särskilt för om det rör något utanför den egna enheten). Det fins risk att de som ”skriker högst” får mest hjälp istället för att det som flest vill prioritera förbättras. För att kunna få in krav från verksamheten och få dem arrangerade i förändringsarbete krävs det två saker:
 * En teknisk, användarvänlig lösning som alla kan använda för att skicka in sina förslag och rösta på andras (en förstudie har gjorts).
 * En process för att ta emot förslagen strukturerat och föra dem vidare till rätt förvaltning för att kunna hantera förslaget och ge återkoppling.
-
-__"Low/no Code" & för att ersätta eller komplettera "vanlig" programmering:__
-Mer makt åt användarna! Med "[Low Code](https://en.wikipedia.org/wiki/Low-code_development_platform)" & "[No Code](https://en.wikipedia.org/wiki/No-code_development_platform)" börjar gränsen mellan expert-användare och utvecklare bli suddig. Hjälp vår systemutvecklingsavdelning hitta och testa nya sätt som kan hjälpa vården och dess stödverksamheter att digitalisera sig själva - med mer eller mindre stöd från utvecklingsavdelningen. Flera typer av studentuppdrag finns:
-* Utred vad som publicerats om för och nackdelar med low/no-code och vad man bör tänka på. Jämför ramverk m.m. (Kognitions-/systemvetenskaplig bakgrund fördelaktig.)
-* Testa och jämför implementation av några användningsfall med både traditionell programmering och olika low/no-code-plattformar
-* Designa och implementera en [Blockly](https://developers.google.com/blockly/)-baserad no-code miljö för att författa kliniska [beslutsstödsregler](https://specifications.openehr.org/releases/CDS/latest/GDL.html) eller [RPA](https://en.wikipedia.org/wiki/Robotic_process_automation)-script.
 
 
 __Miljö och klimat__ Hör av dig med en ansökan. Exempel på studentuppdrag som genomförts eller planerats:
