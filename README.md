@@ -22,8 +22,8 @@ __Process för användarförslag och användarfeedback__: Det finns felanmälnin
 * En teknisk, användarvänlig lösning som alla kan använda för att skicka in sina förslag och rösta på andras (en förstudie har gjorts).
 * En process för att ta emot förslagen strukturerat och föra dem vidare till rätt förvaltning för att kunna hantera förslaget och ge återkoppling.
 
-__"Low Code" & "No Code" för att ersätta eller komplemettera "vanlig" programmering:__
-Mer makt åt användarna! Med "[Low Code](https://en.wikipedia.org/wiki/Low-code_development_platform)" & "[No Code](https://en.wikipedia.org/wiki/No-code_development_platform)" börjar gränsen mellan expert-användare och utvecklare bli suddig. Hjälp vår systemutvecklingsavdelning hitta och testa nya sätt som kan hjälpa vården och dess stödverksamheter att digitalisera sig själva mer - med mer eller mindre stöd från utvecklingsavdelningen. Flera typer av uppdrag finns:
+__"Low/no Code" & för att ersätta eller komplettera "vanlig" programmering:__
+Mer makt åt användarna! Med "[Low Code](https://en.wikipedia.org/wiki/Low-code_development_platform)" & "[No Code](https://en.wikipedia.org/wiki/No-code_development_platform)" börjar gränsen mellan expert-användare och utvecklare bli suddig. Hjälp vår systemutvecklingsavdelning hitta och testa nya sätt som kan hjälpa vården och dess stödverksamheter att digitalisera sig själva - med mer eller mindre stöd från utvecklingsavdelningen. Flera typer av studentuppdrag finns:
 * Utred vad som publicerats om för och nackdelar med low/no-code och vad man bör tänka på. Jämför ramverk m.m. (Kognitions-/systemvetenskaplig bakgrund fördelaktig.)
 * Testa och jämför implementation av några användningsfall med både traditionell programmering och olika low/no-code-plattformar
 * Designa och implementera en [Blockly](https://developers.google.com/blockly/)-baserad no-code miljö för att författa kliniska [beslutsstödsregler](https://specifications.openehr.org/releases/CDS/latest/GDL.html) eller [RPA](https://en.wikipedia.org/wiki/Robotic_process_automation)-script.
