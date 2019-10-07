@@ -70,7 +70,7 @@ David Lantz, Erik Norrestam Held, Matilda Olsson Kaalhus, Mattias Salo, Noah Hel
 
 
 ### 2015
-- OpGuide - stöd för operationsförberedelser - studentprojekt som vidareutvecklats och används dagligen, se video: https://youtu.be/k4r-pHpwdKo?t=14 Inför operationer och andra åtgärder används handböcker och checklistor av olika slag för att ta fram rätt utrustning och se till att göra rätt förberedelser. Uppdraget var att designa och implementera en körbar web-baserad prototyp som kan användas på både på mobila enheter (t.ex. surfplattor) och från stationära datorer när man t.ex. riggar i ordning inför operationer. Ett gränssnitt för att underhålla handböckerna och listorna ingick.
+- OpGuide - stöd för operationsförberedelser - studentprojekt som vidareutvecklats och används dagligen, se video: [https://youtu.be/k4r-pHpwdKo?t=14](https://youtu.be/k4r-pHpwdKo?t=14) Inför operationer och andra åtgärder används handböcker och checklistor av olika slag för att ta fram rätt utrustning och se till att göra rätt förberedelser. Uppdraget var att designa och implementera en körbar web-baserad prototyp som kan användas på både på mobila enheter (t.ex. surfplattor) och från stationära datorer när man t.ex. riggar i ordning inför operationer. Ett gränssnitt för att underhålla handböckerna och listorna ingick.
 - Behovsdriven utveckling inom den offentliga sektorn - Självservice vid en akutmottagning – Vems behov väger tyngst; Sanda Gagic & Sandra Svanberg - [Rapport](https://regionostergotland.github.io/studentuppdrag/2015/Magisteruppsats-15-02101%20Sanda%20Gagic%20%20Sandra%20Svanberg.pdf)
 - Akutjournalens övergång till digital plattform: Vad som krävs för att ersätta pappersformatet
 Linda Hallström [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-120627) - (Handledning från Cambio)
@@ -78,9 +78,7 @@ Linda Hallström [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Ad
 [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-130720) - [Källkod](https://github.com/paguz/RPi-RFID)
 - Emulering av medicinsk BLE-utrustning med Raspberry PI 2 och Bluegiga BLED112; Niclas Kaiste - [Rapport, preliminär version](https://drive.google.com/file/d/0BwdHmPbK5e3STWRVNnBoV0VUMGs/view?usp=sharing)
 
-### Ännu ej kronologiskt sorterat
-
-#### Avslutade projekt, där fortsättningsprojekt är möjliga om/när handledare har tid
+### Avslutade projekt, där fortsättningsprojekt är möjliga om/när handledare har tid
 
 __Bedömningsverktyg för bilkörningsförmåga__ Rehabiliteringsverksamheten söker en metod för att smidigt kunna bedöma en persons förmåga till trafiksäker bilkörning efter hjärnskador. Idag används en förenklad körsimulator som nu blivit föråldrad. Under 2014 hölls en innovationstävling för att uppmuntra framtagande av nya lösningar. Det vinnande bidraget från företaget Cybercom adresserade en delmängd av önskemålen och kan utgöra en grund för vidare design och utveckling.
 
@@ -93,7 +91,7 @@ __Artificiell intelligens och beslutsstöd__ I många situationer finns det en �
 
 __Kontinuerlig synkronisering av HTML5-dokument/data (multi-user & multi-device)__ Det finns olika lösningar för att koppla HTML-gränssnitt till datamodeller (på klientsidan) så att de hålls synkroniserade med varandra (om den ena ändras så återspeglas det direkt i den andra) vissa lösningar kan även stödja separation av grafisk design från logikdesign. Ett sådant exempel är ramverket AngularJS. För att hålla datamodeller på klientsidan synkroniserade med modeller på serversidan och med andra klienter (och med viss tolerans för dåliga nätförbindelser) kan “operational transformation” användas. Ett sådant ramverk är ShareJS. Uppdrag: utred och testa om AngularJS och ShareJS eller andra lämpligar ramverksalternativ fungerar bra ihop och om de skulle kunna användas som en grund i inmatningsgränssnitt för t.ex. patientjournalsystem.
 
-#### Avslutade projekt där fortsättning ej är planerad i dagsläget
+### Avslutade projekt där fortsättning ej är planerad i dagsläget
 
 __Utvärdera desinfektions-metoder baserade på bl.a. ozon, väteperoxid och UV-ljus__
 Det är viktigt att kunna desinficera utrymmen och modern teknisk utrustning (utan att förstöra dem). Detta uppdrag innefattar att testa och jämföra olika metoder i praktiken. Biologikompetens krävs.
