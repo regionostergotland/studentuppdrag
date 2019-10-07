@@ -51,10 +51,15 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 # Exempel på redan genomförda Studentuppdrag
 De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 
+### 2019
+- Informatisk modellering och framtagning av dynamisk mall för patologisvar för bröstcancer. [Modelling breast cancer pathology reports using SNOMED CT and openEHR](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-159746); Thérèse Högberg Mårder.
+- Import av hälsodata från Google Fit (Android-telefoner m.m.) till journalsystem. [Webbapplikation för inrapportering av hälsodata till digitala journalsystem](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-157977); Alexander Vestin, 
+David Lantz, Erik Norrestam Held, Matilda Olsson Kaalhus, Mattias Salo, Noah Hellman, Sofie Liljedahl. 
+
 ### 2017
 - Akutplattan: HLR-stöd på surfplatta; Lisa Ax, Oskar Joelsson, Oscar Magnusson, Susanna Dahlgren, Kim Larsson, Daniel Månsson, Olle Renius - [https://github.com/regionostergotland/akutplattan](https://github.com/regionostergotland/akutplattan)	
 - Visualisering vårdprocesser; Otto Bergdahl, Petter Granli, Gunnar Grimsdal, Johan Nilsson, Peter Arvidsson, Victor Bennich, Hakan Celik - [https://github.com/regionostergotland/VisualCare](https://github.com/regionostergotland/VisualCare)
-
+- Pulsoximetri: Signalbehandling i realtid på Raspberry Pi. [Pulse Oximetry: Signal Processing in real time on Raspberry Pi](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-210234); Thunholm, Malin
 
 ### 2016
 - Prestanda och funktionalitetstest av Raspberry Pi; Manuela Tesanovic  -
@@ -74,19 +79,21 @@ Linda Hallström [Rapport](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Ad
 
 ### Ännu ej kronologiskt sorterat
 
-#### Avslutat, fortsättningsprojekt möjliga om/när handledare har tid
+#### Avslutade projekt, där fortsättningsprojekt är möjliga om/när handledare har tid
+
 __Bedömningsverktyg för bilkörningsförmåga__ Rehabiliteringsverksamheten söker en metod för att smidigt kunna bedöma en persons förmåga till trafiksäker bilkörning efter hjärnskador. Idag används en förenklad körsimulator som nu blivit föråldrad. Under 2014 hölls en innovationstävling för att uppmuntra framtagande av nya lösningar. Det vinnande bidraget från företaget Cybercom adresserade en delmängd av önskemålen och kan utgöra en grund för vidare design och utveckling.
 
 __Mobilitet och Positionering med koppling till IT-stöd__ Teknisk utveckling och/eller utvärdering: Integration av positioneringsfunktioner med andra IT-system. Kan och vill man få mobila system att automatiskt lyfta fram information relaterad till det rum eller den patient man befinner sig hos? Är det lämpligt att använda sig av positionsinformation som en del i säkerhets- och inloggningsrutiner?
 
-__Grafiska symboler och symbolspråk__ [Avslutat kandidatarbete i kognitionsvetenskap finns som grund)- fortsättning möjlig]
-Utveckling och utvärdering av symbolspråk för medicinska terminologisystem. Principerna bakom det medicinska visualiseringsspråket VCM är intressanta, men symbolvalen är inte självklara och estetiken kan förbättras. Hur kan principena tillämpas på bättre och mer tilltalande sätt? Kan utvärderingsstandarder för symboler tillämpas? Hur behöver symbolspråk utformas för att tillämpas på delar av t.ex Snomed CT? Hur kan symbolerna användas för patientöversikter? Projekt inom detta område lämpar sig för de som har intresse för t.ex. grafik och kognitition
+__Grafiska symboler och symbolspråk__ 
+Utveckling och utvärdering av symbolspråk för medicinska terminologisystem. Principerna bakom det medicinska visualiseringsspråket VCM är intressanta, men symbolvalen är inte självklara och estetiken kan förbättras. Hur kan principena tillämpas på bättre och mer tilltalande sätt? Kan utvärderingsstandarder för symboler tillämpas? Hur behöver symbolspråk utformas för att tillämpas på delar av t.ex Snomed CT? Hur kan symbolerna användas för patientöversikter? Projekt inom detta område lämpar sig för de som har intresse för t.ex. grafik och kognitition. (Avslutat kandidatarbete i kognitionsvetenskap finns som grund - fortsättning möjlig)
 
 __Artificiell intelligens och beslutsstöd__ I många situationer finns det en önskan om möjlighet till automatiserade beslutsstöd, exjobb är t.ex. på gång avseende beslutsstöd i mobil akutjournal. Regionen tillämpar redan t.ex. stroke-förbyggande beslutsstöd och håller på att införa stöd på fler områden. Om du har intressen/kompetens inom AI eller beslutsstöd så kan vi diskutera uppdrag.
 
 __Kontinuerlig synkronisering av HTML5-dokument/data (multi-user & multi-device)__ Det finns olika lösningar för att koppla HTML-gränssnitt till datamodeller (på klientsidan) så att de hålls synkroniserade med varandra (om den ena ändras så återspeglas det direkt i den andra) vissa lösningar kan även stödja separation av grafisk design från logikdesign. Ett sådant exempel är ramverket AngularJS. För att hålla datamodeller på klientsidan synkroniserade med modeller på serversidan och med andra klienter (och med viss tolerans för dåliga nätförbindelser) kan “operational transformation” användas. Ett sådant ramverk är ShareJS. Uppdrag: utred och testa om AngularJS och ShareJS eller andra lämpligar ramverksalternativ fungerar bra ihop och om de skulle kunna användas som en grund i inmatningsgränssnitt för t.ex. patientjournalsystem.
 
-#### Avslutat
+#### Avslutade projekt där fortsättning ej är planerad i dagsläget
+
 __Utvärdera desinfektions-metoder baserade på bl.a. ozon, väteperoxid och UV-ljus__
 Det är viktigt att kunna desinficera utrymmen och modern teknisk utrustning (utan att förstöra dem). Detta uppdrag innefattar att testa och jämföra olika metoder i praktiken. Biologikompetens krävs.
 
