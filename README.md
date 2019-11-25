@@ -12,7 +12,15 @@ Vi har möjlighet att erbjuda studentuppdrag från flera av Region Östergötlan
 Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd och utveckling, CVU](https://www.regionostergotland.se/Om-regionen/Verksamheter/Centrum-for-verksamhetsstod-och-utveckling/), som levererar tjänster inom medicinsk teknik och IT, miljö, bygg, HR, ekonomi, arkivverksamhet, regional biblioteksverksamhet, vårdnära verksamhetsutveckling, folkhälsa, fastigheter/facility management och upphandling. Centrum för verksamhetsstöd och utveckling har sin verksamhet i Linköping, Norrköping och Motala och sysselsätter runt 1100 personer.
 
 # Öppna studentuppdrag (nu)
-Projektförslagen under denna rubrik kan handledas 2019 (fler kan tillkomma senare).
+Projektförslagen under denna rubrik kan handledas 2019 och 2020 (fler kan tillkomma senare).
+
+__Modell för omvårdnadsdokumentation i patientjournalen__
+I Cosmic dokumenteras omvårdnad i mallar, t ex nutrition, fall, trycksår, munhälsa m.m. Mallarna består av sökord framtagna ur forskning och praxis. Mallarna följer ibland ett processtänk. Det är svårt för en sjuksköterska att dokumentera vid rätt tidpunkt, i en process eller med rätt innehåll. För vad ska vi egentligen dokumentera? Utifrån vems perspektiv ska dokumentationen ske? För den som vill visa vad som gjorts, för den som kommer nästa pass, för uppföljning på generell nivå eller utifrån vad forskningen anser är rätt? Det finns även lagar som styr vad som ska dokumenteras, men dessa är ibland ej så styrande. 
+
+Därför behöver vi undersöka vilka behov finns av dokumentation, vad säger forskningen och lagen. Därefter behöver en modell föreslås kring vad dokumentationen i en patientjournal ska innehålla. Förslag är att utgå från en s.k. omvårdnadsmall, t ex sår eller nutrition. Uppdraget lämpligt för student inom kognitionsvetenskap på masternivå eller liknande.
+
+__Kunskapsstyrning för nutritionsvård__
+Region Östergötland vill bygga en kunskapsstyrning för ändamålsenlig nutritionsvård. Behoven kring detta behöver utredas. Uppdraget lämpligt för student inom kognitionsvetenskap, beteendevetenskap eller systemvetenskap.
 
 __Patientjournal-applikationer__ [Pågående, öppet för fler att delta] 
 * __Papper --> digitalt__: Mycket av vårdens dokumentation är sedan länge digital, men inom t.ex. akutvård och operation så förekommer viktiga pappers-baserade flöden som vårdpersonalen nu skulle vilja få över till digital form, men på ett sätt som behåller eller överträffar papprets smidighet. Prototyparbete kring detta pågår. Det finns inom detta område plats för olika typer av studentuppdrag inom användbarhet, systemutveckling, inbyggda system, medcinsk informatik m.m.
