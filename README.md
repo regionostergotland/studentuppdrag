@@ -14,12 +14,12 @@ Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd och utveck
 # Öppna studentuppdrag (nu)
 Projektförslagen under denna rubrik kan handledas 2019 och 2020 (fler kan tillkomma senare).
 
-__Modell för omvårdnadsdokumentation i patientjournalen__[Pågående, eventuellt öppet för fler att delta]
+__Modell för omvårdnadsdokumentation i patientjournalen__
 I journalsystemet Cosmic dokumenteras omvårdnad i mallar, t ex nutrition, fall, trycksår, munhälsa m.m. Mallarna består av sökord framtagna ur forskning och praxis. Mallarna följer ibland ett processtänk. Det är svårt för en sjuksköterska att dokumentera vid rätt tidpunkt, i en process eller med rätt innehåll. För vad ska vi egentligen dokumentera? Utifrån vems perspektiv ska dokumentationen ske? För den som vill visa vad som gjorts, för den som kommer nästa pass, för uppföljning på generell nivå eller utifrån vad forskningen anser är rätt? Det finns även lagar som styr vad som ska dokumenteras, men dessa är ibland ej så styrande. 
 
 Därför behöver vi undersöka vilka behov finns av dokumentation, vad säger forskningen och lagen. Därefter behöver en modell föreslås kring vad dokumentationen i en patientjournal ska innehålla. Förslag är att utgå från en s.k. omvårdnadsmall, t ex sår eller nutrition. Uppdraget lämpligt för student inom kognitionsvetenskap på masternivå eller liknande.
 
-__Kunskapsstyrning för nutritionsvård__
+__Kunskapsstyrning för nutritionsvård__ [Pågående, eventuellt öppet för fler att delta] 
 Region Östergötland vill bygga en kunskapsstyrning för ändamålsenlig nutritionsvård. Behoven kring detta behöver utredas - vilka behov har verksamheterna av kunskap, styrning och ledning för att nå regionens mål kring nutritionsvård? Behoven ska kunna genera lösningar för regionen. Förstudierapport som beskriver problemområdet finns här: [Förstudie](https://regionostergotland.github.io/studentuppdrag/2019/Nutritionsbehandling-191119.pdf). Uppdraget är lämpligt för student inom kognitionsvetenskap, beteendevetenskap eller systemvetenskap.
 
 __Patientjournal-applikationer__ [Pågående, öppet för fler att delta] 
