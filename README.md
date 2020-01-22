@@ -61,6 +61,8 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 
 ### 2019
+- [vITal](https://github.com/regionostergotland/vITal-studentprojekt) webbapplikation för mobil registrering av vitalparametrar och beräkning av risk (med NEWS2-skala) samt scanning av patientarmband med mobil. Lagring i openEHR-plattform.
+- [MedCom](https://github.com/regionostergotland/MedCom-TDDC88) webbapplikation för att från andra vårdgivare akut skicka in bilder m.m. till brännskadejouren för bedömningshjälp
 - Informatisk modellering och framtagning av dynamisk mall för patologisvar för bröstcancer. [Modelling breast cancer pathology reports using SNOMED CT and openEHR](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-159746); Thérèse Högberg Mårder.
 - Import av hälsodata från Google Fit (Android-telefoner m.m.) till journalsystem. [Webbapplikation för inrapportering av hälsodata till digitala journalsystem](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-157977); Alexander Vestin, 
 David Lantz, Erik Norrestam Held, Matilda Olsson Kaalhus, Mattias Salo, Noah Hellman, Sofie Liljedahl. 
