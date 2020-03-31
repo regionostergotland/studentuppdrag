@@ -61,6 +61,7 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 
 ### 2019
+- Studie om digitala vårdcentraler ur ett vårdpersonalperspektiv. [En fallstudie om vårdpersonals acceptans av en videomötestjänst](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-164573); Josefin Lidh.
 - [vITal](https://github.com/regionostergotland/vITal-studentprojekt) webbapplikation för mobil registrering av vitalparametrar och beräkning av risk (med NEWS2-skala) samt scanning av patientarmband med mobil. Lagring i openEHR-plattform.
 - [MedCom](https://github.com/regionostergotland/MedCom-TDDC88) webbapplikation för att från andra vårdgivare akut skicka in bilder m.m. till brännskadejouren för bedömningshjälp
 - Informatisk modellering och framtagning av dynamisk mall för patologisvar för bröstcancer. [Modelling breast cancer pathology reports using SNOMED CT and openEHR](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-159746); Thérèse Högberg Mårder.
