@@ -2,7 +2,7 @@
 
 Region Östergötland vill fortsätta att vara i framkant, med vård, forskning och utbildning i världsklass. Därför behöver vi många olika sorters kompetens med olika typer av bakgrund. Vi har förutsättningarna för spännande karriärvägar, för att du ska kunna göra skillnad, och föra livet framåt. Inom regionen finns sjukhus i Linköping, Norrköping och Motala. Dessutom finns ett stort antal vårdcentraler och andra verksamheter, spridda över hela regionen. 
 
-Utöver vårdutbildad personal finns personal från många andra utbildningsbakgrunder, t.ex. teknik, naturvetenskap, informatik, matematik, ekonomi, juridik, HR. 
+Utöver vårdutbildad personal finns personal från många andra utbildningsbakgrunder, t.ex. teknik, naturvetenskap, informatik, matematik, beteendevetenskap, ekonomi, juridik, HR. 
 
 ## Examensarbete, uppsats, kursprojekt eller praktikplats?
 
