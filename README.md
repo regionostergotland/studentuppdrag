@@ -63,6 +63,10 @@ Region Östergötland vill bygga en kunskapsstyrning för ändamålsenlig nutrit
 # Exempel på redan genomförda Studentuppdrag
 De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 
+### 2020
+- Import av egna hälsodata från Google Fit (Android-telefoner m.m.) till journalsystem (EHR) och egen personlig journal (PHR). https://github.com/regionostergotland/ipforregionen Detta är en fortsättning och utökning av et projekt från 2019, se nedan.
+- Digital Akutjornal (mer info kommer senare via bl.a. https://github.com/regionostergotland/vera)
+
 ### 2019
 - Studie om digitala vårdcentraler ur ett vårdpersonalperspektiv. [En fallstudie om vårdpersonals acceptans av en videomötestjänst](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-164573); Josefin Lidh.
 - [vITal](https://github.com/regionostergotland/vITal-studentprojekt) webbapplikation för mobil registrering av vitalparametrar och beräkning av risk (med NEWS2-skala) samt scanning av patientarmband med mobil. Lagring i openEHR-plattform.
