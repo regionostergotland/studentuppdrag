@@ -8,9 +8,6 @@ Utöver vårdutbildad personal finns personal från många andra utbildningsbakg
 
 Vi har möjlighet att erbjuda studentuppdrag från flera av Region Östergötlands olika verksamheter. Studentuppdrag kan genomföras på olika sätt, examensarbete, uppsats, praktik (obetald), kursprojekt m.m. Utöver listan nedan så är du givetvis välkommen med egna spontana idéer till projekt eller med kombinationsförslag som gränsar mellan de listade förslagen. Flera av förslagen kan göras tillsammans av flera studenter om så önskas. Ansökningar lämnas via antingen [annonsen för examensarbeten, uppsatser och kursprojekt](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/?RMURL=VacDetail.aspx?CommAdSeqNo=7691) eller via [annonsen för praktik](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/?RMURL=VacDetail.aspx?CommAdSeqNo=7690).  Ibland finns även uppdrag under Yrkeskategorin "Examensarbete" bland [regionens lediga jobb](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/). Frågor är välkomna till testochinnovation@regionostergotland.se.
 
-__Notering angående covid-19: Under den tid det är som mest intensivt med covid-19 så kanske vi inte kan svara lika snabbt på ansökningar, och möjligheterna till praktik och exjobb kan vara begränsade. Ansökan är dock öppen och vi försöker erbjuda platser i den mån det är möjligt!__
-
-
 Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd](https://www.regionostergotland.se/Om-regionen/Verksamheter/ledningsstab/verksamhetsstod/), som levererar tjänster inom  lön och arbetsgivarfrågor, ekonomiservice, teknisk förvaltning/utveckling, tekniska bastjänster, bygg, fastighet, service och logistik, inköp samt arkivverksamhet. Centrum för verksamhetsstöd har sin verksamhet i huvudsak i Linköping, och sysselsätter runt 700 personer.
 
 ----------------      
