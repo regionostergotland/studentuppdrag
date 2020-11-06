@@ -49,9 +49,7 @@ __Öppen medicinteknisk hårdvara & mjukvara - demonstratortillverkning och test
 
 __Generera fiktiva testpatienter samt ”personor” för vårdpersonal.__ Inom regionen testas vårdsystem i samband med förändringar, uppgraderingar m.m. Vårdgivare är av legala skäl förhindrade att använda riktiga patienters journaler eller uppgifter i testerna, och måste därför bygga upp både fiktiv vårdpersonal och fiktiva patienter. De medarbetare som saknar vårdbakgrund har ibland problem med att avgöra om testobjektet är lösningen på användarnas problem, och därför behöver testarna nu mer och djupare information om vad olika yrkesgrupper och specialister behöver för informationsmängder för att kunna fatta lämpliga beslut om fortsatt vård eller behandling. Det finns några personal-personor att utgå ifrån och för patientfall kan utöver nuvarande testpatienter även publikt tillgängliga fallbeskrivningar etc. användas.  
         De beskrivningar av den fiktiva vårdpersonalen som används idag är magra och innehåller bara grundläggande egenskaper och attribut som behövts till tekniska tester. Beskrivningarna behöver utökas med t.ex. vilken typ av läkare eller sköterska de är, vad de behöver för underlag i vissa vårdsituationer för att kunna fatta beslut om patientens fortsatta behandling. På samma sätt saknas många diagnoser, symtom m.m. hos våra fiktiva patienter, vilket begränsar testerna. Med mer information om de fiktiva patienterna och deras sjukdomar hade patientjournalen satts hårdare på prov än vad som sker i dag, och vi hade hittat fler avvikelser redan under test. Tester med utgångspunkt i fylligare ”personor” både för fiktiv personal och patienter bör ge högre kvalitet. Väl beskrivna personor gör det enklare för alla inblandade att förstå krav och lösning, både hos oss och hos leverantörer. Arbetet kommer bland annat innefatta inventering av befintliga personor för testanvändare respektive testpatienter samt planering, genomförande och sammanställning av intervjuer med vårdpersonal. Om man vill generera realistiska kliniska förlopp så kan https://synthetichealth.github.io/synthea/ vara ett verktyg.
-        
-__Kunskapsstyrning för nutritionsvård__ [Pågående, eventuellt öppet för fler att delta] 
-Region Östergötland vill bygga en kunskapsstyrning för ändamålsenlig nutritionsvård. Behoven kring detta behöver utredas - vilka behov har verksamheterna av kunskap, styrning och ledning för att nå regionens mål kring nutritionsvård? Behoven ska kunna genera lösningar för regionen. Förstudierapport som beskriver problemområdet finns här: [Förstudie](https://regionostergotland.github.io/studentuppdrag/2019/Nutritionsbehandling-191119.pdf). Uppdraget är lämpligt för student inom kognitionsvetenskap, beteendevetenskap eller systemvetenskap.
+
 
 
 # Exempel på redan genomförda Studentuppdrag
@@ -59,7 +57,8 @@ De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 
 ### 2020
 - Import av egna hälsodata från Google Fit (Android-telefoner m.m.) till journalsystem (EHR) och egen personlig journal (PHR). https://github.com/regionostergotland/ipforregionen Detta är en fortsättning och utökning av et projekt från 2019, se nedan.
-- Digital Akutjornal (mer info kommer senare via bl.a. https://github.com/regionostergotland/vera)
+- Digital Akutjornal (mer info kommer senare via bl.a. https://github.com/regionostergotland/vera)        
+- Kunskapsstyrning för nutritionsvård. Vilka behov har verksamheterna av kunskap, styrning och ledning för att nå regionens mål kring nutritionsvård? Behoven ska kunna genera lösningar för regionen. Förstudierapport som beskriver problemområdet finns här: [Förstudie](https://regionostergotland.github.io/studentuppdrag/2019/Nutritionsbehandling-191119.pdf).
 
 ### 2019
 - Studie om digitala vårdcentraler ur ett vårdpersonalperspektiv. [En fallstudie om vårdpersonals acceptans av en videomötestjänst](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-164573); Josefin Lidh.
