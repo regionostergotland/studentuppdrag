@@ -14,7 +14,7 @@ Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd](https://w
 
 ----------------      
       
-Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. Studentuppdrag/praktik för vård-relaterade utbildningar och annonser för vanliga (betalda) arbeten nås via [https://www.regionostergotland.se/Jobb-och-studier/](https://www.regionostergotland.se/Jobb-och-studier/). 
+Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. kopplade till pågående utbildning. Studentuppdrag/praktik för vård-relaterade utbildningar och annonser för vanliga (betalda) arbeten nås via [https://www.regionostergotland.se/Jobb-och-studier/](https://www.regionostergotland.se/Jobb-och-studier/). 
 
 ------------------
 
@@ -32,6 +32,13 @@ Mer makt åt användarna! Med "[Low Code](https://en.wikipedia.org/wiki/Low-code
 * Testa och jämför implementation av några användningsfall med både traditionell programmering och olika low/no-code-plattformar
 * Utred vad som publicerats om för och nackdelar med low/no-code och vad man bör tänka på. Jämför ramverk m.m. (Kognitions-/systemvetenskaplig bakgrund fördelaktig.)
 * Designa och implementera en [Blockly](https://developers.google.com/blockly/)-baserad no-code miljö för att författa kliniska [beslutsstödsregler](https://specifications.openehr.org/releases/CDS/latest/GDL.html) eller [RPA](https://en.wikipedia.org/wiki/Robotic_process_automation)-script.
+
+__Visualisering av data och systemegenskaper hos ICC__ (Höst 2021)
+Regionen har många IT-system, mellan flera av dem behövs integrationer som genomförs och underhålls av Regionens ICC (Integration Competency Center). Stora mängder data av olika typer flödar varje dygn mellan systemen. Flera av integrationerna i är livsviktiga i vården, exempelvis sådana som gör att provresultat snabbt kommer från laboratoriesystemen till rätt vårdpersonal. Studentuppdragets syfte är att tillgängliggöra statistik och data från dessa plattformar och lösningar på ett intuitivt och aggregerat sätt, så att data kan användas för trendanalyser m.m. som i sin tur kan underlätta beslutsfattande inom ICC. (Se även mer [detaljerad beskrivning](https://github.com/regionostergotland/studentuppdrag/blob/master/Uppdragsbeskrivning_visualisering_ICC.pdf).)
+
+
+__Visualisering av dataflöden hos ICC__
+* Skapa beskutsstöd i form av visualiseringar baserade på flera datakällor
 
 __Miljö och klimat__ Hör av dig med en ansökan. Exempel på studentuppdrag som genomförts eller planerats:
 * __Visualisering av klimatpåverkan av dagens lunch.__ Hjälp oss visa klimatpåverkan av de matval som görs i vardagen. Se exempel 
@@ -53,7 +60,8 @@ De uppdrag som har rapportlänkar är sorterade efter avslutnings/rapport-datum
 - Import av egna hälsodata från Google Fit (Android-telefoner m.m.) till journalsystem (EHR) och egen personlig journal (PHR). https://github.com/regionostergotland/ipforregionen Detta är en fortsättning och utökning av et projekt från 2019, se nedan.
 - Digital Akutjornal (mer info kommer senare via bl.a. https://github.com/regionostergotland/vera)        
 - Kunskapsstyrning för nutritionsvård. Vilka behov har verksamheterna av kunskap, styrning och ledning för att nå regionens mål kring nutritionsvård? Behoven ska kunna genera lösningar för regionen. Förstudierapport som beskriver problemområdet finns här: [Förstudie](https://regionostergotland.github.io/studentuppdrag/2019/Nutritionsbehandling-191119.pdf).
-- Prototyper för egenmonitorering, se [uppdrag](https://docs.google.com/document/d/1SzN3W3gOxLbpXnSqnjONfq4X7YhWJ85lgnXvdoUi2Pg/edit?usp=sharing) och en delar av resultaten [Rostbot](https://github.com/regionostergotland/Rostbot-chat-PUM-HT-2020). Treet [documentation](https://github.com/regionostergotland/documentation_Treet), [product](https://github.com/regionostergotland/treet_product) & [studentgrupp](https://github.com/regionostergotland/company4-webpage).
+- Prototyper för egenmonitorering, se [uppdrag](https://docs.google.com/document/d/1SzN3W3gOxLbpXnSqnjONfq4X7YhWJ85lgnXvdoUi2Pg/edit?usp=sharing) och en exempel av resultaten 1.[Rostbot](https://github.com/regionostergotland/Rostbot-chat-PUM-HT-2020). 2.Treet; [documentation](https://github.com/regionostergotland/documentation_Treet), [product](https://github.com/regionostergotland/treet_product) & [studentgrupp](https://regionostergotland.github.io/company4-webpage/).
+- Interaktionsdesign, översiktsvyer i akutjournal. [Grupp 7](https://drive.google.com/file/d/1yDglPIgDu7ueWqSTunTUApdQJXqxSkQq/view?usp=sharing) & [Grupp 8](https://drive.google.com/file/d/1Z5Jc7TNer5s4ydCechUzMFKvWB5_M8UQ/view?usp=sharing)
 
 ### 2019
 - Studie om digitala vårdcentraler ur ett vårdpersonalperspektiv. [En fallstudie om vårdpersonals acceptans av en videomötestjänst](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-164573); Josefin Lidh.
