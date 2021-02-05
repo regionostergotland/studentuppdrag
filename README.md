@@ -10,8 +10,6 @@ Vi har för det mesta möjlighet att erbjuda studentuppdrag från flera av Regio
 
 _Under perioder av skärpta COVID-19-restriktioner är det betydligt svårare att erbjuda praktik (särskilt på plats fysiskt). Examensarbeten etc. kan ofta göras mycket bra även huvudsakligen på distans. Inom större delar av regionens IT är det dock stopp för handledning av studentarbeten innan augusti, diskussioner kan dock påbörjas före sommaren._
 
-Många av uppdragen nedan kommer från [Centrum för verksamhetsstöd](https://www.regionostergotland.se/Om-regionen/Verksamheter/ledningsstab/verksamhetsstod/), som levererar tjänster inom  lön och arbetsgivarfrågor, ekonomiservice, teknisk förvaltning/utveckling, tekniska bastjänster, bygg, fastighet, service och logistik, inköp samt arkivverksamhet. Centrum för verksamhetsstöd har sin verksamhet i huvudsak i Linköping, och sysselsätter runt 700 personer.
-
 ----------------      
       
 Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. kopplade till pågående utbildning. Studentuppdrag/praktik för vård-relaterade utbildningar och annonser för vanliga (betalda) arbeten nås via [https://www.regionostergotland.se/Jobb-och-studier/](https://www.regionostergotland.se/Jobb-och-studier/). 
