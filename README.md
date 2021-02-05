@@ -34,9 +34,6 @@ Mer makt åt användarna! Med "[Low Code](https://en.wikipedia.org/wiki/Low-code
 __Visualisering av data och systemegenskaper hos ICC__ (Höst 2021)
 Regionen har många IT-system, mellan flera av dem behövs integrationer som genomförs och underhålls av Regionens ICC ([Integration Competency Center](https://en.wikipedia.org/wiki/Integration_competency_center)). Stora mängder data av olika typer flödar varje dygn mellan systemen. Flera av integrationerna i är livsviktiga i vården, exempelvis sådana som gör att provresultat snabbt kommer från laboratoriesystemen till rätt vårdpersonal. Studentuppdragets syfte är att tillgängliggöra statistik och data från dessa plattformar och lösningar på ett intuitivt och aggregerat sätt, så att data kan användas för trendanalyser m.m. som i sin tur kan underlätta beslutsfattande inom ICC. (Se även mer [detaljerad beskrivning](https://github.com/regionostergotland/studentuppdrag/blob/master/Uppdragsbeskrivning_visualisering_ICC.pdf).)
 
-__Visualisering av dataflöden hos ICC__
-* Skapa beskutsstöd i form av visualiseringar baserade på flera datakällor
-
 __Miljö och klimat__ Hör av dig med en ansökan. Exempel på studentuppdrag som genomförts eller planerats:
 * __Visualisering av klimatpåverkan av dagens lunch.__ Hjälp oss visa klimatpåverkan av de matval som görs i vardagen. Se exempel 
 * __Vilka kläder för vårdens medarbetare är bäst för klimatet?__ Under senaste åren har engångskläder blivit allt vanligare i vården. Vilka kläder ska användas för att uppnå bästa klimatnytta?
