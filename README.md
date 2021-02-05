@@ -31,7 +31,7 @@ Mer makt åt användarna! Med "[Low Code](https://en.wikipedia.org/wiki/Low-code
 * Utred vad som publicerats om för och nackdelar med low/no-code och vad man bör tänka på. Jämför ramverk m.m. (Kognitions-/systemvetenskaplig bakgrund fördelaktig.)
 * Designa och implementera en [Blockly](https://developers.google.com/blockly/)-baserad no-code miljö för att författa kliniska [beslutsstödsregler](https://specifications.openehr.org/releases/CDS/latest/GDL.html) eller [RPA](https://en.wikipedia.org/wiki/Robotic_process_automation)-script.
 
-__Visualisering av data och systemegenskaper hos ICC__ (Höst 2021)
+__Statistik och visualisering hos ICC__ (Höst 2021)
 Regionen har många IT-system, mellan flera av dem behövs integrationer som genomförs och underhålls av Regionens ICC ([Integration Competency Center](https://en.wikipedia.org/wiki/Integration_competency_center)). Stora mängder data av olika typer flödar varje dygn mellan systemen. Flera av integrationerna i är livsviktiga i vården, exempelvis sådana som gör att provresultat snabbt kommer från laboratoriesystemen till rätt vårdpersonal. Studentuppdragets syfte är att tillgängliggöra statistik och data från dessa plattformar och lösningar på ett intuitivt och aggregerat sätt, så att data kan användas för trendanalyser m.m. som i sin tur kan underlätta beslutsfattande inom ICC. (Se även mer [detaljerad beskrivning](https://github.com/regionostergotland/studentuppdrag/blob/master/Uppdragsbeskrivning_visualisering_ICC.pdf).)
 
 __Miljö och klimat__ Hör av dig med en ansökan. Exempel på studentuppdrag som genomförts eller planerats:
