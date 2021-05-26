@@ -61,6 +61,8 @@ __Generera fiktiva testpatienter samt ”personor” för vårdpersonal.__ Inom 
 - Kunskapsstyrning för nutritionsvård. Vilka behov har verksamheterna av kunskap, styrning och ledning för att nå regionens mål kring nutritionsvård? Behoven ska kunna genera lösningar för regionen. Förstudierapport som beskriver problemområdet finns här: [Förstudie](https://regionostergotland.github.io/studentuppdrag/2019/Nutritionsbehandling-191119.pdf).
 - Prototyper för egenmonitorering, se [uppdrag](https://docs.google.com/document/d/1SzN3W3gOxLbpXnSqnjONfq4X7YhWJ85lgnXvdoUi2Pg/edit?usp=sharing) och resultatexempel: 1.[Rostbot](https://github.com/regionostergotland/Rostbot-chat-PUM-HT-2020). 2.Treet; [documentation](https://github.com/regionostergotland/documentation_Treet), [product](https://github.com/regionostergotland/treet_product) & [student group](https://regionostergotland.github.io/company4-webpage/).
 - Interaktionsdesign, översiktsvyer i akutjournal. [Grupp 7](https://drive.google.com/file/d/1yDglPIgDu7ueWqSTunTUApdQJXqxSkQq/view?usp=sharing) & [Grupp 8](https://drive.google.com/file/d/1Z5Jc7TNer5s4ydCechUzMFKvWB5_M8UQ/view?usp=sharing)
+- Kandidatuppsats: [Tämjande av vilda system – En fallstudie av Region Östergötlands arbete med att hantera vilda system](https://github.com/regionostergotland/studentuppdrag/raw/master/2020/LIU-IEI-FIL-G--2002296--SE.pdf)
+(Taming of Feral Systems – A Case Study of Region Östergötlands Undertaking to Deal with Feral Information Systems) Av Marcus Larsson & Rasmus Thunberg 
 
 ### 2019
 - Studie om digitala vårdcentraler ur ett vårdpersonalperspektiv. [En fallstudie om vårdpersonals acceptans av en videomötestjänst](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-164573); Josefin Lidh.
@@ -74,6 +76,7 @@ David Lantz, Erik Norrestam Held, Matilda Olsson Kaalhus, Mattias Salo, Noah Hel
 - Akutplattan: HLR-stöd på surfplatta; Lisa Ax, Oskar Joelsson, Oscar Magnusson, Susanna Dahlgren, Kim Larsson, Daniel Månsson, Olle Renius - [https://github.com/regionostergotland/akutplattan](https://github.com/regionostergotland/akutplattan)	
 - Visualisering vårdprocesser; Otto Bergdahl, Petter Granli, Gunnar Grimsdal, Johan Nilsson, Peter Arvidsson, Victor Bennich, Hakan Celik - [https://github.com/regionostergotland/VisualCare](https://github.com/regionostergotland/VisualCare)
 - Pulsoximetri: Signalbehandling i realtid på Raspberry Pi. [Pulse Oximetry: Signal Processing in real time on Raspberry Pi](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-210234); Thunholm, Malin
+- Kandidatuppsats: [Feral Information Systems i Vårdverksamheter: En fallstudie om risker som kan uppstå när de inte uppfyller vårdverksamheters krav på IT-system](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-139119) Av: Anders Breid & Lemlem Mehari
 
 ### 2016
 - Prestanda och funktionalitetstest av Raspberry Pi; Manuela Tesanovic  -
