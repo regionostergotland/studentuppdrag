@@ -52,6 +52,7 @@ __Generera fiktiva testpatienter samt ”personor” för vårdpersonal.__ Inom 
 # Exempel på redan genomförda Studentuppdrag
 
 ### 2021
+- Projektarbete: Visualisera en patients tillstånd på en akutmottagning. Syftet med detta arbete var att undersöka om ett kroppsfigur-baserat gränssnitt kan vara ett komplement vid överrapporteringar och vad ett sådant gränssnitt borde innehålla. I arbetet användes prototypande som ett verktyg för kravställning. Av: Lisa Rönnqvist, Kognitionsvetenskapliga programmet LiU.
 - Prototyp för att testa olika alternativ och ideer för ett eventuellt framtida chattsystem mellan patienter och vårdpersonal. Systemet fokuserar på förgrening av konversationer, markering av viktig text för att underlätta överlämning mellan vårdpersonal m.m. [https://github.com/regionostergotland/Chattsystem-prototyp-PUMvt2021/tree/release](https://github.com/regionostergotland/Chattsystem-prototyp-PUMvt2021/tree/release)
 - Examensarbete: Adaptive OCR System for Medical Device Displays. Av: Louise Nybacka (Kommer kunna nås via [https://liu.diva-portal.org/](https://liu.diva-portal.org/))
 
