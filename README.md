@@ -10,7 +10,7 @@ Vi har för det mesta möjlighet att erbjuda studentuppdrag från flera av Regio
 
 Katastrofmedicinskt centrum (KMC), en av RÖ:s verksamheter, har även en egen kanal in för studentprojekt på [https://www.katastrofmedicin.se/sv/for-students/](https://www.katastrofmedicin.se/sv/for-students/). Ansökningar som görs genom annonserna som nämns ovan och som vi tror kan passa på KMC kommer vi att lotsa dit, så det spelar ingen roll vilken ansökningsväg du väljer.
 
-_Under perioder av skärpta COVID-19-restriktioner är det betydligt svårare att erbjuda praktik (särskilt på plats fysiskt). Examensarbeten etc. kan ofta göras mycket bra även huvudsakligen på distans. Inom större delar av regionens IT är det dock stopp för handledning av studentarbeten innan augusti, diskussioner kan dock påbörjas före sommaren._
+_Under perioder av skärpta COVID-19-restriktioner är det betydligt svårare att erbjuda praktik (särskilt på plats fysiskt). Examensarbeten etc. kan ofta göras mycket bra även huvudsakligen på distans._
 
 ----------------      
       
