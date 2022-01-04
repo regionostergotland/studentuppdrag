@@ -51,6 +51,7 @@ __Patientjournal-applikationer__ [Pågående, öppet för fler att delta] (Höst
 # Exempel på redan genomförda Studentuppdrag
 
 ### 2021
+- Examensarbete [Vårdpersonalens perspektiv på en digital vårdcentral: Användning av videobesök i vården](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1621878&dswid=4264) av Ellen Liif, Kognitionsvetenskapliga programmet LiU.
 - Kandidatarbete [Att digitalisera en akutmottagning](https://github.com/regionostergotland/studentuppdrag/raw/master/2021/Kandidatuppsats_Att%20digitalisera%20en%20akutmottagning.pdf) Av: Hanna Henriksson, Kognitionsvetenskapliga programmet LiU.
 - Projektarbete: [Visualisera en patients tillstånd på en akutmottagning](https://github.com/regionostergotland/studentuppdrag/blob/master/2021/Visualisera%20en%20patient.pdf). Syftet med detta arbete var att undersöka om ett kroppsfigur-baserat gränssnitt kan vara ett komplement vid överrapporteringar och vad ett sådant gränssnitt borde innehålla. I arbetet användes prototypande som ett verktyg för kravställning. Av: Lisa Rönnqvist, Kognitionsvetenskapliga programmet LiU.
 - Prototyp för att testa olika alternativ och ideer för ett eventuellt framtida chattsystem mellan patienter och vårdpersonal. Systemet fokuserar på förgrening av konversationer, markering av viktig text för att underlätta överlämning mellan vårdpersonal m.m. [https://github.com/regionostergotland/Chattsystem-prototyp-PUMvt2021/tree/release](https://github.com/regionostergotland/Chattsystem-prototyp-PUMvt2021/tree/release)
