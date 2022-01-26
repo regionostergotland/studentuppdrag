@@ -17,7 +17,9 @@ _Under perioder av skärpta COVID-19-restriktioner är det betydligt svårare at
 
 ----------------      
       
-Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Sommarjobb 2022 inom medicinsk teknik söks senast 28/2 via epost till Ole.Ronningen@regionostergotland.se. Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. kopplade till pågående utbildning.
+Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Sommarjobb 2022 inom medicinsk teknik söks senast 28/2 via epost till Ole.Ronningen@regionostergotland.se. 
+
+Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. kopplade till pågående utbildning.
 
 ------------------
 
