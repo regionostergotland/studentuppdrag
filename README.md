@@ -6,7 +6,10 @@ Utöver vårdutbildad personal finns personal från många andra utbildningsbakg
 
 ## Examensarbete, uppsats, kursprojekt eller praktikplats?
 
-Vi har för det mesta möjlighet att erbjuda studentuppdrag från flera av Region Östergötlands olika verksamheter. Studentuppdrag kan genomföras på olika sätt, examensarbete, uppsats, praktik (obetald), kursprojekt m.m. Utöver listan nedan så är du givetvis välkommen med egna spontana idéer till projekt eller med kombinationsförslag som gränsar mellan de listade förslagen. Flera av förslagen kan göras tillsammans av flera studenter om så önskas. Ansökningar lämnas via [Spontanansökan](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/spontanansokan/), välj annons för antingen exjobb eller praktik. Frågor är välkomna till testochinnovation@regionostergotland.se.
+Vi har för det mesta möjlighet att erbjuda studentuppdrag från flera av Region Östergötlands olika verksamheter. Studentuppdrag kan genomföras på olika sätt, examensarbete, uppsats, praktik (obetald), kursprojekt m.m. Utöver listan nedan så är du givetvis välkommen med egna spontana idéer till projekt eller med kombinationsförslag som gränsar mellan de listade förslagen. Flera av förslagen kan göras tillsammans av flera studenter om så önskas. 
+
+## Ansökningar
+Ansökningar lämnas via [Spontanansökan](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/spontanansokan/), välj annons för antingen exjobb eller praktik. Frågor är välkomna till testochinnovation@regionostergotland.se.
 
 Katastrofmedicinskt centrum (KMC), en av RÖ:s verksamheter, har även en egen kanal in för studentprojekt på [https://www.katastrofmedicin.se/sv/for-students/](https://www.katastrofmedicin.se/sv/for-students/). Ansökningar som görs genom annonserna som nämns ovan och som vi tror kan passa på KMC kommer vi att lotsa dit, så det spelar ingen roll vilken ansökningsväg du väljer.
 
@@ -14,7 +17,7 @@ _Under perioder av skärpta COVID-19-restriktioner är det betydligt svårare at
 
 ----------------      
       
-Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Sommarjobb 2022 inom medicinsk teknik söks senast 28/2 via epost till Ole.Ronningen@regionostergotland.se. Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. kopplade till pågående utbildning. Studentuppdrag/praktik för vård-relaterade utbildningar och annonser för vanliga (betalda) arbeten nås via [https://www.regionostergotland.se/Jobb-och-studier/](https://www.regionostergotland.se/Jobb-och-studier/). 
+Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Sommarjobb 2022 inom medicinsk teknik söks senast 28/2 via epost till Ole.Ronningen@regionostergotland.se. Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. kopplade till pågående utbildning.
 
 ------------------
 
