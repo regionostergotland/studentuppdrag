@@ -25,6 +25,33 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 
 # Öppna studentuppdrag (nu)
 
+__Utveckling av den prehospitala akutsjukvården för patienter med psykisk ohälsa i Region Östergötland__ 
+
+Bakgrund
+
+Det finns två spår eller inriktningar inom detta uppdrag.
+
+Regionen avser att utreda behoven för hur en ökad mobil vård inom psykiatrin kan utvecklas och organiseras, där så kallade PAM-enheter (psykiatrisk ambulans) kan ingå i arbetet. Därefter ska förslagen från utredningen genomföras och utvärderas för att i ett senare skede permanentas.
+
+Det andra spåret handlar om jämlik vård i länet, inom psykiatri. Det finns idag olika sätt att arbeta mobilt inom de olika länsdelarna. Mobila team inom psykiatrin finns bland annat i Motala och Mjölby. Mobila lösningar finns även i centrala och i öster.
+Mobila team vilar på tre ben: akuta patienter, patienter som man ansluter med en vårdplan för insatser samt kortare insatser där teamet åker ut på olika hemuppdrag. Alla patienter är därför inte anslutna på samma sätt. 
+
+Mål
+
+Ta fram förslag på, testa och utvärdera hur mobil vård kan organiseras i länet för att nå jämlik vård utifrån:
+
+•	nytta för patienten 
+
+•	kunskapsstyrning/evidens 
+
+•	kompetens hos personal
+
+•	effektiva processer
+
+•	ekonomiskt läge 
+
+•	samverkan med ambulans, SOS och somatisk akutmottagning
+
 __Statistik och visualisering hos ICC__ 
 Regionen har många IT-system, mellan flera av dem behövs integrationer som genomförs och underhålls av Regionens ICC ([Integration Competency Center](https://en.wikipedia.org/wiki/Integration_competency_center)). Stora mängder data av olika typer flödar varje dygn mellan systemen. Flera av integrationerna i är livsviktiga i vården, exempelvis sådana som gör att provresultat snabbt kommer från laboratoriesystemen till rätt vårdpersonal. Studentuppdragets syfte är att tillgängliggöra statistik och data från dessa plattformar och lösningar på ett intuitivt och aggregerat sätt, så att data kan användas för trendanalyser m.m. som i sin tur kan underlätta beslutsfattande inom ICC. (Se även mer [detaljerad beskrivning](https://github.com/regionostergotland/studentuppdrag/blob/master/Uppdragsbeskrivning_statistik_ICC.pdf).)
 
@@ -36,8 +63,6 @@ __Miljö och klimat__ Hör av dig med en ansökan om du har intresse av området
 * __Jämlika patientresor__ Hur kan Region Östergötland arbeta för klimatsmarta och jämlika patientresor? Idag betalar patienter för att ta sin bil eller buss till sjukhuset, det kan påverka ekonomiskt utsatta grupper.
 * __Visualisering av förbrukningsprodukters nyttjande__ Hur kan vården ta del av information som visar enhetens nyttjande av förbrukningsprodukter och dess klimatbelastning?
 
-__Patientjournal-applikationer__ [Pågående, öppet för fler att delta] (Höst 2021)
-* __Papper --> digitalt__: Mycket av vårdens dokumentation är sedan länge digital, men inom t.ex. akutvård och operation så förekommer viktiga pappers-baserade flöden som vårdpersonalen nu skulle vilja få över till digital form, men på ett sätt som behåller eller överträffar papprets smidighet. Prototyparbete kring detta pågår på t.ex. **akutmottagningarna**. Det finns inom detta område plats för olika typer av studentuppdrag inom användbarhet, systemutveckling, beslutsstöd, medcinsk informatik m.m.
 
 # Exempel på redan genomförda Studentuppdrag
 
