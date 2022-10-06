@@ -34,7 +34,7 @@ Det finns två spår eller inriktningar inom detta uppdrag.
 Regionen avser att utreda behoven för hur en ökad mobil vård inom psykiatrin kan utvecklas och organiseras, där så kallade PAM-enheter (psykiatrisk ambulans) kan ingå i arbetet. Därefter ska förslagen från utredningen genomföras och utvärderas för att i ett senare skede permanentas.
 
 Det andra spåret handlar om jämlik vård i länet, inom psykiatri. Det finns idag olika sätt att arbeta mobilt inom de olika länsdelarna. Mobila team inom psykiatrin finns bland annat i Motala och Mjölby. Mobila lösningar finns även i centrala och i öster.
-Mobila team vilar på tre ben: akuta patienter, patienter som man ansluter med en vårdplan för insatser samt kortare insatser där teamet åker ut på olika hemuppdrag. Alla patienter är därför inte anslutna på samma sätt. 
+Mobila team vilar på tre ben: akuta patienter, patienter som man ansluter med en vårdplan för insatser samt kortare insatser där teamet åker ut på olika hemuppdrag. 
 
 Mål
 
