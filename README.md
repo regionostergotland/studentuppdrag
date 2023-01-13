@@ -31,8 +31,9 @@ __Utvärdering av införande av standardiserat vårdförlopp för Sepsis__
 Bakgrund
 
 Standardiserade vårdförlopp införs för att säkerställa att patienten ska vara trygg med att få samma goda vård var hen än söker den, och att vården bygger på nyaste evidens. Just nu införs flertalet personcentrerade sammanhållna vårdförlopp i Region Östergötland. 
-https://kunskapsstyrningvard.se/kunskapsstyrningvard/kunskapsstod/omvarakunskapsstod/personcentreradeochsammanhallnavardforlopp.55829.html
-https://kunskapsstyrningvard.se/kunskapsstyrningvard/programomradenochsamverkansgrupper/nationellaprogramomraden/npoinfektionssjukdomar.56434.html
+[https://kunskapsstyrningvard.se/kunskapsstyrningvard/kunskapsstod/omvarakunskapsstod/personcentreradeochsammanhallnavardforlopp.55829.html]
+
+[https://kunskapsstyrningvard.se/kunskapsstyrningvard/programomradenochsamverkansgrupper/nationellaprogramomraden/npoinfektionssjukdomar.56434.html]
 
 
 Situation
