@@ -25,6 +25,26 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 
 # Öppna studentuppdrag (nu)
 
+__Utvärdering av införande av standardiserat vårdförlopp för Sepsis__
+
+
+Bakgrund
+
+Standardiserade vårdförlopp införs för att säkerställa att patienten ska vara trygg med att få samma goda vård var hen än söker den, och att vården bygger på nyaste evidens. Just nu införs flertalet personcentrerade sammanhållna vårdförlopp i Region Östergötland. 
+https://kunskapsstyrningvard.se/kunskapsstyrningvard/kunskapsstod/omvarakunskapsstod/personcentreradeochsammanhallnavardforlopp.55829.html
+https://kunskapsstyrningvard.se/kunskapsstyrningvard/programomradenochsamverkansgrupper/nationellaprogramomraden/npoinfektionssjukdomar.56434.html
+
+
+Situation
+I år införs ett nationellt beslutat, standardiserat vårdförlopp, ”Personcentrerat och sammanhållet vårdförlopp sepsis” i Region Östergötland. Vårdförloppet påverkar främst akutmottagningarna, prehospital vård och infektionskliniken, men även anestesi och intensivvård samt mottagande vårdavdelningar och intermediärvård. 
+
+
+Projektförslag
+1.	En kvalitativ studie där medarbetare intervjuas. Huvudsyftet med uppföljningen är att undersöka om implementeringen har lyckats, dvs används det nya arbetssättet och följs riktlinjer? Varför och varför inte? Framgångsfaktorer i implementeringen? Barriärer i implementeringen? Viktigt att olika professioner från de olika länsdelarna intervjuas.
+
+2.	En kvalitativ studie där chefer intervjuas. Huvudsyftet är att undersöka hur chefer har sett på sin roll i implementeringsarbetet. Har de haft kunskap om vårdförloppet och dess innehåll, förstått varför det ska införas och kommunicerat det till sina medarbetare, vad har deras actions varit för att få vårdförloppet implementerat, har vårdförloppets prioritet kommunicerats tydligt från överordnade, har de själva fått stöd från överordnade inför införandet är exempel på frågor som kan ställas. 
+
+
 __Utveckling av den prehospitala akutsjukvården för patienter med psykisk ohälsa i Region Östergötland__ 
 
 Bakgrund
