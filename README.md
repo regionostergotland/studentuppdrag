@@ -32,8 +32,7 @@ Bakgrund
 
 Standardiserade vårdförlopp införs för att säkerställa att patienten ska vara trygg med att få samma goda vård var hen än söker den, och att vården bygger på nyaste evidens. Just nu införs flertalet personcentrerade sammanhållna vårdförlopp i Region Östergötland. 
 ([Kunskapsstyrningen->personcentrerade vårdförlopp](https://kunskapsstyrningvard.se/kunskapsstyrningvard/kunskapsstod/omvarakunskapsstod/personcentreradeochsammanhallnavardforlopp.55829.html))
-
-([Nationella programområdet infektionssjukdomar](https://kunskapsstyrningvard.se/kunskapsstyrningvard/programomradenochsamverkansgrupper/nationellaprogramomraden/npoinfektionssjukdomar.56434.html))
+([Nationellt programområde infektionssjukdomar](https://kunskapsstyrningvard.se/kunskapsstyrningvard/programomradenochsamverkansgrupper/nationellaprogramomraden/npoinfektionssjukdomar.56434.html))
 
 
 Situation
@@ -62,15 +61,10 @@ Mål
 Ta fram förslag på, testa och utvärdera hur mobil vård kan organiseras i länet för att nå jämlik vård utifrån:
 
 •	nytta för patienten 
-
 •	kunskapsstyrning/evidens 
-
 •	kompetens hos personal
-
 •	effektiva processer
-
 •	ekonomiskt läge 
-
 •	samverkan med ambulans, SOS och somatisk akutmottagning
 
 __Statistik och visualisering hos ICC__ 
