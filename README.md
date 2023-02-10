@@ -9,7 +9,7 @@ Utöver vårdutbildad personal finns personal från många andra utbildningsbakg
 Vi har för det mesta möjlighet att erbjuda studentuppdrag från flera av Region Östergötlands olika verksamheter. Studentuppdrag kan genomföras på olika sätt, examensarbete, uppsats, praktik (obetald), kursprojekt m.m. Utöver listan nedan så är du givetvis välkommen med egna spontana idéer till projekt eller med kombinationsförslag som gränsar mellan de listade förslagen. Flera av förslagen kan göras tillsammans av flera studenter om så önskas. 
 
 ## Ansökningar
-Ansökningar lämnas via [Exjobb](https://www.regionostergotland.se/ro/jobb-och-utbildning/utbildning-och-praktik/student/) eller [Praktik](https://www.regionostergotland.se/ro/jobb-och-utbildning/utbildning-och-praktik/praktikant), välj annons för antingen exjobb eller praktik. Frågor är välkomna till testochinnovation@regionostergotland.se.
+Ansökningar lämnas via [Exjobb](https://www.regionostergotland.se/ro/jobb-och-utbildning/utbildning-och-praktik/student/) eller [Praktik](https://www.regionostergotland.se/ro/jobb-och-utbildning/utbildning-och-praktik/praktikant). Frågor är välkomna till testochinnovation@regionostergotland.se.
 
 Katastrofmedicinskt centrum (KMC), en av RÖ:s verksamheter, har även en egen kanal in för studentprojekt på [https://www.katastrofmedicin.se/sv/for-students/](https://www.katastrofmedicin.se/sv/for-students/). Ansökningar som görs genom annonserna som nämns ovan och som vi tror kan passa på KMC kommer vi att lotsa dit, så det spelar ingen roll vilken ansökningsväg du väljer.
 
