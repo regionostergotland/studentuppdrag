@@ -9,7 +9,7 @@ Utöver vårdutbildad personal finns personal från många andra utbildningsbakg
 Vi har för det mesta möjlighet att erbjuda studentuppdrag från flera av Region Östergötlands olika verksamheter. Studentuppdrag kan genomföras på olika sätt, examensarbete, uppsats, praktik (obetald), kursprojekt m.m. Utöver listan nedan så är du givetvis välkommen med egna spontana idéer till projekt eller med kombinationsförslag som gränsar mellan de listade förslagen. Flera av förslagen kan göras tillsammans av flera studenter om så önskas. 
 
 ## Ansökningar
-Ansökningar lämnas via [Spontanansökan](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/spontanansokan/), välj annons för antingen exjobb eller praktik. Frågor är välkomna till testochinnovation@regionostergotland.se.
+Ansökningar lämnas via [Exjobb](https://www.regionostergotland.se/ro/jobb-och-utbildning/utbildning-och-praktik/student/) eller [Praktik](https://www.regionostergotland.se/ro/jobb-och-utbildning/utbildning-och-praktik/praktikant), välj annons för antingen exjobb eller praktik. Frågor är välkomna till testochinnovation@regionostergotland.se.
 
 Katastrofmedicinskt centrum (KMC), en av RÖ:s verksamheter, har även en egen kanal in för studentprojekt på [https://www.katastrofmedicin.se/sv/for-students/](https://www.katastrofmedicin.se/sv/for-students/). Ansökningar som görs genom annonserna som nämns ovan och som vi tror kan passa på KMC kommer vi att lotsa dit, så det spelar ingen roll vilken ansökningsväg du väljer.
 
@@ -17,56 +17,13 @@ _Under perioder av skärpta COVID-19-restriktioner är det betydligt svårare at
 
 ----------------      
       
-Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Sommarjobb 2022 inom medicinsk teknik söks senast 28/2 via epost till Ole.Ronningen@regionostergotland.se. 
+Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogram i medicinsk teknik brukar kunna söka (betalda) [sommarvikariat](https://www.regionostergotland.se/Jobb-och-studier/Lediga-jobb/Sommarvikariat/). Sommarjobb 2023 inom medicinsk teknik söks senast 28/2 via epost till Ole.Ronningen@regionostergotland.se. 
 
 Övriga uppdrag på denna lista är obetald studentpraktik, examensarbeten etc. kopplade till pågående utbildning.
 
 ------------------
 
 # Öppna studentuppdrag (nu)
-
-__Utvärdering av införande av standardiserat vårdförlopp för Sepsis__
-
-
-Bakgrund
-
-Standardiserade vårdförlopp införs för att säkerställa att patienten ska vara trygg med att få samma goda vård var hen än söker den, och att vården bygger på nyaste evidens. Just nu införs flertalet personcentrerade sammanhållna vårdförlopp i Region Östergötland. 
-([Kunskapsstyrningen->personcentrerade vårdförlopp](https://kunskapsstyrningvard.se/kunskapsstyrningvard/kunskapsstod/omvarakunskapsstod/personcentreradeochsammanhallnavardforlopp.55829.html))
-
-([Nationellt programområde infektionssjukdomar](https://kunskapsstyrningvard.se/kunskapsstyrningvard/programomradenochsamverkansgrupper/nationellaprogramomraden/npoinfektionssjukdomar.56434.html))
-
-
-Situation
-I år införs ett nationellt beslutat, standardiserat vårdförlopp, ”Personcentrerat och sammanhållet vårdförlopp sepsis” i Region Östergötland. Vårdförloppet påverkar främst akutmottagningarna, prehospital vård och infektionskliniken, men även anestesi och intensivvård samt mottagande vårdavdelningar och intermediärvård. 
-
-
-Projektförslag
-1.	En kvalitativ studie där medarbetare intervjuas. Huvudsyftet med uppföljningen är att undersöka om implementeringen har lyckats, dvs används det nya arbetssättet och följs riktlinjer? Varför och varför inte? Framgångsfaktorer i implementeringen? Barriärer i implementeringen? Viktigt att olika professioner från de olika länsdelarna intervjuas.
-
-2.	En kvalitativ studie där chefer intervjuas. Huvudsyftet är att undersöka hur chefer har sett på sin roll i implementeringsarbetet. Har de haft kunskap om vårdförloppet och dess innehåll, förstått varför det ska införas och kommunicerat det till sina medarbetare, vad har deras actions varit för att få vårdförloppet implementerat, har vårdförloppets prioritet kommunicerats tydligt från överordnade, har de själva fått stöd från överordnade inför införandet är exempel på frågor som kan ställas. 
-
-
-__Utveckling av den prehospitala akutsjukvården för patienter med psykisk ohälsa i Region Östergötland__ 
-
-Bakgrund
-
-Det finns två spår eller inriktningar inom detta uppdrag.
-
-Regionen avser att utreda behoven för hur en ökad mobil vård inom psykiatrin kan utvecklas och organiseras, där så kallade PAM-enheter (psykiatrisk ambulans) kan ingå i arbetet. Därefter ska förslagen från utredningen genomföras och utvärderas för att i ett senare skede permanentas.
-
-Det andra spåret handlar om jämlik vård i länet, inom psykiatri. Det finns idag olika sätt att arbeta mobilt inom de olika länsdelarna. Mobila team inom psykiatrin finns bland annat i Motala och Mjölby. Mobila lösningar finns även i centrala och i öster.
-Mobila team vilar på tre ben: akuta patienter, patienter som man ansluter med en vårdplan för insatser samt kortare insatser där teamet åker ut på olika hemuppdrag. 
-
-Mål
-
-Ta fram förslag på, testa och utvärdera hur mobil vård kan organiseras i länet för att nå jämlik vård utifrån:
-
-- nytta för patienten 
-- kunskapsstyrning/evidens 
-- kompetens hos personal
-- effektiva processer
-- ekonomiskt läge 
-- samverkan med ambulans, SOS och somatisk akutmottagning
 
 __Statistik och visualisering hos ICC__ 
 
