@@ -36,7 +36,7 @@ Situation
 Patienter och närstående ska inte behöva utsättas för tobaksrök i samband med vårdbesök och det är särskilt viktigt att skydda barn från passiv rökning. 
 Huvudbudskapet när det gäller rökfria utomhusmiljöer inom hälso- och sjukvården handlar om hälsa och att visa hänsyn för sina medmänniskor. Det är allas gemensamma ansvar att ha en rökfri sjukhusmiljö. Det finns fortfarande förbättringspotential och mer att önska. ”Håll i, håll ut och tålamod” är som en slogan för arbete. Exempelvis har gatupratare använts och kontinuerligt fått nya ibland lite humoristiska och positiva budskap. De senaste går hand i hand med Region Östergötlands kampanj ”Din guide till hälsa”. 
 Målet är en HELT rökfri hälso- och sjukvård i Region Östergötland. En liten utvärdering har genomförts sedan starten 2016, vi ser nu behov av att en mer omfattande utvärdering sker för att fortsätta förbättringsarbetet mot målet.
-Mer läsning på vårdgivarwebben: [https://vardgivarwebb.regionostergotland.se/Startsida/Verksamheter/Halso--och-vardutvecklingscentrum/Verksamhetsutveckling-Vard-och-Halsa/Halsoframjande/Levnadsvanor/Tobak/Rokfria-halso--och-sjukvardsmiljoer-utomhus/
+Mer läsning på [vårdgivarwebben](https://vardgivarwebb.regionostergotland.se/Startsida/Verksamheter/Halso--och-vardutvecklingscentrum/Verksamhetsutveckling-Vard-och-Halsa/Halsoframjande/Levnadsvanor/Tobak/Rokfria-halso--och-sjukvardsmiljoer-utomhus/)
 
 __Projektförslag:__
 En kvalitativ studie där patienter, besökare- befolkning och medarbetare intervjuas i form av fokusgruppsintervjuer
