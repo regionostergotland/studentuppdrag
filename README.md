@@ -28,6 +28,7 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 __Utvärdering Rökfria utomhusmiljöer i Region Östergötland__
 
 Bakgrund
+
 Den 1 januari 2016 införde Region Östergötland helt rökfria hälso-och sjukvårdsområden utomhus. Det är ett led i att minska skadeverkningarna av passiv rökning och ett bidrag till bästa möjliga hälsa för alla. Budskapet fokuserar på den positiva möjlighet som rökfria hälso- och sjukvårdsmiljöer utomhus är; en möjlighet till rökfrihet för alla, istället för ett förbud för vissa. 
 
 Situation
@@ -40,7 +41,6 @@ Mer läsning på vårdgivarwebben: https://vardgivarwebb.regionostergotland.se/S
 __Projektförslag:__
 En kvalitativ studie där patienter, besökare- befolkning och medarbetare intervjuas i form av fokusgruppsintervjuer
 Huvudsyftet med uppföljningen är att undersöka om implementeringen har lyckats? Framgångsfaktorer i implementeringen? Tankar och uppfattningar om att hälso- och sjukvården infört Rökfria utomhusmiljöer? Utmaningar? Förbättringsförslag?  
-
 
 __Statistik och visualisering hos ICC__ 
 
