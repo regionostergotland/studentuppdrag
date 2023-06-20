@@ -35,7 +35,7 @@ Huvudbudskapet när det gäller rökfria utomhusmiljöer inom hälso- och sjukv�
 Målet är en HELT rökfri hälso- och sjukvård i Region Östergötland. En liten utvärdering har genomförts sedan starten 2016, vi ser nu behov av att en mer omfattande utvärdering sker för att fortsätta förbättringsarbetet mot målet.
 Mer läsning på vårdgivarwebben: https://vardgivarwebb.regionostergotland.se/Startsida/Verksamheter/Halso--och-vardutvecklingscentrum/Verksamhetsutveckling-Vard-och-Halsa/Halsoframjande/Levnadsvanor/Tobak/Rokfria-halso--och-sjukvardsmiljoer-utomhus/ 
 
-Projektförslag:
+__Projektförslag:__
 En kvalitativ studie där patienter, besökare- befolkning och medarbetare intervjuas i form av fokusgruppsintervjuer
 Huvudsyftet med uppföljningen är att undersöka om implementeringen har lyckats? Framgångsfaktorer i implementeringen? Tankar och uppfattningar om att hälso- och sjukvården infört Rökfria utomhusmiljöer? Utmaningar? Förbättringsförslag?  
 
