@@ -25,23 +25,6 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 
 # Öppna studentuppdrag (nu)
 
-__Utvärdering Rökfria utomhusmiljöer i Region Östergötland__
-
-Bakgrund
-
-Den 1 januari 2016 införde Region Östergötland helt rökfria hälso-och sjukvårdsområden utomhus. Det är ett led i att minska skadeverkningarna av passiv rökning och ett bidrag till bästa möjliga hälsa för alla. Budskapet fokuserar på den positiva möjlighet som rökfria hälso- och sjukvårdsmiljöer utomhus är; en möjlighet till rökfrihet för alla, istället för ett förbud för vissa. 
-
-Situation
-
-Patienter och närstående ska inte behöva utsättas för tobaksrök i samband med vårdbesök och det är särskilt viktigt att skydda barn från passiv rökning. 
-Huvudbudskapet när det gäller rökfria utomhusmiljöer inom hälso- och sjukvården handlar om hälsa och att visa hänsyn för sina medmänniskor. Det är allas gemensamma ansvar att ha en rökfri sjukhusmiljö. Det finns fortfarande förbättringspotential och mer att önska. ”Håll i, håll ut och tålamod” är som en slogan för arbete. Exempelvis har gatupratare använts och kontinuerligt fått nya ibland lite humoristiska och positiva budskap. De senaste går hand i hand med Region Östergötlands kampanj ”Din guide till hälsa”. 
-Målet är en HELT rökfri hälso- och sjukvård i Region Östergötland. En liten utvärdering har genomförts sedan starten 2016, vi ser nu behov av att en mer omfattande utvärdering sker för att fortsätta förbättringsarbetet mot målet.
-Mer läsning på [vårdgivarwebben](https://vardgivarwebb.regionostergotland.se/Startsida/Verksamheter/Halso--och-vardutvecklingscentrum/Verksamhetsutveckling-Vard-och-Halsa/Halsoframjande/Levnadsvanor/Tobak/Rokfria-halso--och-sjukvardsmiljoer-utomhus/)
-
-__Projektförslag:__
-En kvalitativ studie där patienter, besökare- befolkning och medarbetare intervjuas i form av fokusgruppsintervjuer
-Huvudsyftet med uppföljningen är att undersöka om implementeringen har lyckats? Framgångsfaktorer i implementeringen? Tankar och uppfattningar om att hälso- och sjukvården infört Rökfria utomhusmiljöer? Utmaningar? Förbättringsförslag?  
-
 __Statistik och visualisering hos ICC__ 
 
 Regionen har många IT-system, mellan flera av dem behövs integrationer som genomförs och underhålls av Regionens ICC ([Integration Competency Center](https://en.wikipedia.org/wiki/Integration_competency_center)). Stora mängder data av olika typer flödar varje dygn mellan systemen. Flera av integrationerna i är livsviktiga i vården, exempelvis sådana som gör att provresultat snabbt kommer från laboratoriesystemen till rätt vårdpersonal. Studentuppdragets syfte är att tillgängliggöra statistik och data från dessa plattformar och lösningar på ett intuitivt och aggregerat sätt, så att data kan användas för trendanalyser m.m. som i sin tur kan underlätta beslutsfattande inom ICC. (Se även mer [detaljerad beskrivning](https://github.com/regionostergotland/studentuppdrag/blob/master/Uppdragsbeskrivning_statistik_ICC.pdf).)
