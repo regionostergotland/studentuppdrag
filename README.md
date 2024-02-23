@@ -25,19 +25,8 @@ Studenter på vårdutbildningar och i högre årskurser på civilingenjörsprogr
 
 # Öppna studentuppdrag (nu)
 
-__Statistik och visualisering hos ICC__ 
+__Vi har för närvarande inga beskrivna uppdrag men välkommen med egna förslag__ 
 
-Regionen har många IT-system, mellan flera av dem behövs integrationer som genomförs och underhålls av Regionens ICC ([Integration Competency Center](https://en.wikipedia.org/wiki/Integration_competency_center)). Stora mängder data av olika typer flödar varje dygn mellan systemen. Flera av integrationerna i är livsviktiga i vården, exempelvis sådana som gör att provresultat snabbt kommer från laboratoriesystemen till rätt vårdpersonal. Studentuppdragets syfte är att tillgängliggöra statistik och data från dessa plattformar och lösningar på ett intuitivt och aggregerat sätt, så att data kan användas för trendanalyser m.m. som i sin tur kan underlätta beslutsfattande inom ICC. (Se även mer [detaljerad beskrivning](https://github.com/regionostergotland/studentuppdrag/blob/master/Uppdragsbeskrivning_statistik_ICC.pdf).)
-
-__Miljö och klimat__ 
-
-Hör av dig med en ansökan om du har intresse av området. Exempel på tidigare studentuppdrag:
-* __Visualisering av klimatpåverkan av dagens lunch.__ Hjälp oss visa klimatpåverkan av de matval som görs i vardagen. Se exempel 
-* __Vilka kläder för vårdens medarbetare är bäst för klimatet?__ Under senaste åren har engångskläder blivit allt vanligare i vården. Vilka kläder ska användas för att uppnå bästa klimatnytta?
-* __Uppföljning av elcykel-användning.__ RÖ har köpt in 26 st elcyklar som har varit ute i verksamheten i drygt ett år. Sammanställning av klimatnytta och resultat.
-* __Visualisering och räkneexempel av resfria möten.__ Ta fram schablonmodell för att räkna klimatnytta och ekonomisk besparing med resfria möten.I uppdraget ingår också att ta fram en intuitiv visualisering av förhållandet mellan avstånd och antalet deltagare.
-* __Jämlika patientresor__ Hur kan Region Östergötland arbeta för klimatsmarta och jämlika patientresor? Idag betalar patienter för att ta sin bil eller buss till sjukhuset, det kan påverka ekonomiskt utsatta grupper.
-* __Visualisering av förbrukningsprodukters nyttjande__ Hur kan vården ta del av information som visar enhetens nyttjande av förbrukningsprodukter och dess klimatbelastning?
 
 
 # Exempel på redan genomförda Studentuppdrag
